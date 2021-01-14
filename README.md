@@ -5,6 +5,8 @@ If some of your termux commands aren't working
 then you can use it to backup your files and 
 Easily reinstall your termux. And use your files agian.
 
+- Gimme Star of you like it :) .
+
 # Installation
 In just one command
 - cd $HOME/t-helper/ ; ls ; ./t-helper.sh
