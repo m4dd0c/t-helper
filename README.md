@@ -6,10 +6,9 @@ then you can use it to backup your files and
 Easily reinstall your termux. And use your files agian.
 
 # Installation
+In just one command
+- $  cd $HOME/t-helper/ ; ls ; ./t-helper.sh
 
-$ cd $HOME/T-helper/
-$ ls
-$ ./t-helper.sh
 
 # Exit
 $ ^c  or  ctrl+c
