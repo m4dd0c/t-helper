@@ -1,2 +1,7 @@
 # t-helper
-This tool can Backup all your data and using same tool 
+This tool can Backup all your data of termux. and using the same tool you can restore the Data.
+
+If some of your termux commands aren't working
+then you can use it to backup your files and 
+Easily reinstall your termux. And use your files agian.
+
