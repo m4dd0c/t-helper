@@ -8,9 +8,17 @@ Easily reinstall your termux. And use your files agian.
 - Gimme Star of you like it :) .
 
 # Installation
-In just one command
-- cd $HOME/t-helper/ ; ls ; ./T-helper.sh
 
+- cd $HOME
+- pkg install git
+- git clone https://github.com/opM4dd0x/t-helper
+- cd $HOME/t-helper/
+- chmod +x T-helper.sh
+- ./T.helper.sh
+ 
+In one command 
+
+- cd $HOME ; pkg install git ; git clone https://github.com/opM4dd0x/t-helper ; cd $HOME/t-helper/ ; chmod +x T-helper.sh ; ./T.helper.sh
 
 # Exit
 - ^c  or  ctrl+c
