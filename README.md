@@ -9,7 +9,7 @@ Easily reinstall your termux. And use your files agian.
 
 # Installation
 In just one command
-- cd $HOME/t-helper/ ; ls ; ./t-helper.sh
+- cd $HOME/t-helper/ ; ls ; ./T-helper.sh
 
 
 # Exit
