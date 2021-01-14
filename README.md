@@ -7,11 +7,11 @@ Easily reinstall your termux. And use your files agian.
 
 # Installation
 In just one command
-- $  cd $HOME/t-helper/ ; ls ; ./t-helper.sh
+- cd $HOME/t-helper/ ; ls ; ./t-helper.sh
 
 
 # Exit
-$ ^c  or  ctrl+c
+- ^c  or  ctrl+c
 
 # Important things 
 Simple copying codes or changing banner will not make you owner or developer of this tool.
