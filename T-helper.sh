@@ -90,7 +90,7 @@ echo ""
 echo " 		Instagram ~ @op_m4dd0x" |lolcat -t
 echo ""
 read -p $'\e[1;33m Press any key to exit :\e[m ' m
-if [ $m != ÷%^÷ ] 
+if [ $m != "÷%^÷" ] 
 then
 echo ""
 echo " BYE BYE! YOU MAY HAVE A NICE TIME " |lolcat -t
