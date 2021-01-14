@@ -93,7 +93,7 @@ read -p $'\e[1;33m Press any key to exit :\e[m ' m
 if [ $m != "÷%^÷" ] 
 then
 echo ""
-echo " BYE BYE! YOU MAY HAVE A NICE TIME " |lolcat -t
+echo " BYE BYE! YOU MAY HAVE A GREAT TIME " |lolcat -t
 echo ""
 else 
 echo "Yeah boii"
