@@ -11,7 +11,7 @@ Easily reinstall your termux. And use your files agian.
 
 - cd $HOME
 - pkg install git
-- git clone https://github.com/opM4dd0x/t-helper
+- git clone https://github.com/m4dd0c/t-helper
 - cd $HOME/t-helper/
 - chmod +x T-helper.sh
 - ./T.helper.sh
