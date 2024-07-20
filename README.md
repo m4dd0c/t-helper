@@ -8,20 +8,21 @@ Easily reinstall your termux. And use your files agian.
 - Gimme Star if you like it :) .
 
 # Installation
-
-- cd $HOME
-- pkg install git
-- git clone https://github.com/m4dd0c/t-helper
-- cd $HOME/t-helper/
-- chmod +x T-helper.sh
-- ./T.helper.sh
- 
-In one command 
-
-- cd $HOME ; pkg install git ; git clone https://github.com/m4dd0c/t-helper ; cd $HOME/t-helper/ ; chmod +x T-helper.sh ; ./T.helper.sh
-
+```
+ cd $HOME
+ pkg install git
+ git clone https://github.com/m4dd0c/t-helper
+ cd $HOME/t-helper/
+ chmod +x T-helper.sh
+ ./T.helper.sh
+ ```
+# Single line command 
+```
+ cd $HOME ; pkg install git ; git clone https://github.com/m4dd0c/t-helper ; cd $HOME/t-helper/ ; chmod +x T-helper.sh ; ./T.helper.sh
+```
 # Exit
-- ^c  or  ctrl+c
-
+```
+ ^c  or  ctrl+c
+```
 # Important things 
 Simple copying codes or changing banner will not make you owner or developer of this tool.
