@@ -15,7 +15,7 @@ echo "
     ╚═╝      ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝
                                                                    
     ========================================================
-    ☆                   Made by  M4Dd0x                    ☆
+    ☆                   Made by  m4dd0c                   ☆
     ========================================================" |lolcat -t
 echo ""
 		echo -e "\e[1;31m ctrl+c to exit \e[m"
@@ -69,8 +69,8 @@ sleep 2
 break
 else
 echo ""
- echo -e "		\e[1;31m [!] invalid option \e[0m"
- echo -e "		\e[1;33m ● Please Try Agian \e[0m"
+ echo -e "		\e[1;31m [!] invalid option. \e[0m"
+ echo -e "		\e[1;33m ● Please Try Again. \e[0m"
 echo ""
 fi
 
@@ -87,10 +87,10 @@ echo "	●●●●●●●●●●♤♤♤♤♤♤♤♤♤♤♤♤♤♤�
 	○○○●●●●●○○○••••••••••••••••○○○○●●●●●○○○" |lolcat -t
 echo ""
 echo ""
-echo " 		Instagram ~ @op_m4dd0x" |lolcat -t
+echo " 		Instagram ~ @m4dd0c_" |lolcat -t
 echo ""
 read -p $'\e[1;33m Press any key to exit :\e[m ' m
-if [ $m != "÷%^÷" ] 
+if [ $m != "÷%^÷rtw3452gerg5" ] 
 then
 echo ""
 echo " BYE BYE! YOU MAY HAVE A GREAT TIME " |lolcat -t
